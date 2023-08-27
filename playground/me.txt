@@ -1,0 +1,6 @@
+
+{{#user}}
+Name: Ashwini Pote
+Skills: Linux,Docker,github,AWS,kubernetes.
+Email: ashwinipote399@gmail.com
+{{/user}}
